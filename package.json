@@ -1,7 +1,7 @@
 {
   "name": "superchart",
   "version": "0.1.0",
-  "description": "",
+  "description": "Tiny JS chart helper library with no rendering",
   "source": "src/index.ts",
   "main": "dist/superchart.js",
   "module": "dist/superchart.mjs",
@@ -28,7 +28,7 @@
       "ts-node/register"
     ]
   },
-  "keywords": [],
+  "keywords": ["javascript", "chart"],
   "author": "",
   "license": "ISC",
   "devDependencies": {
