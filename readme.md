@@ -1,4 +1,4 @@
-# :warning: This project is deprecated. I moved this functionality into my other project: https://github.com/harchcode/gaguna/blob/main/src/buffer.ts
+# :warning: This project is deprecated. Got too lazy to continue this :(
 
 Sometimes you just need some helper functions to help us draw a chart, and render it using vanilla JS or frameworks like React, Vue, etc. Superchart provides helper functions to make a chart, and it is up to you how you would render the chart.
 
